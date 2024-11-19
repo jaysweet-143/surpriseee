@@ -1,0 +1,24 @@
+img {
+    width:100%;
+}
+
+body {
+    background-color: plum;
+    
+}
+
+h1,h2 {
+    font-family: sans-serif;
+}
+
+.graph {
+    float: right;  /* Float the image to the right */
+    margin-left: 10px;  /* Add some space between the image and the text */
+    width: 40%;
+    height: 40%;
+}
+
+.text {
+    font-size: 160%;
+    font-family:cursive;
+}
